@@ -1,0 +1,21 @@
+{
+    "name": "Arquitectura",
+    "short_name": "#PUAP",
+    "description": "Bienvenidos a Arquitectura, donde encontrarás lo que no buscabas :)",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope" : "./",
+    "lang" : "es-MX",
+    "icons" : [
+        {
+            "src":"./img/1024x1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        
+        
+        }
+    
+        ]
+
+}
